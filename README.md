@@ -119,14 +119,14 @@ Microsoft_VivaEngage_CHS_Blueprint/
 ├── index.html                              ← Live interactive dashboard (v5)
 ├── README.md
 ├── Microsoft_CHS.pptx                      ← Portfolio deck
-├── CHS_Computation_Logic.docx             ← Every metric formula mapped to its CSV column,
+├── CHS_Computation_Logic.pdf             ← Every metric formula mapped to its CSV column,
 │                                              plain-English explanations, constraint notes,
 │                                              and what requires GPT-4/BERTopic in production
 ├── pre-computed-analytics-reference.xlsx  ← Pre-computed CHS scores for all 22 communities
 │                                              (Executive Dashboard · Type Classification ·
 │                                               Metric Deep Dive · Risk & Nudges)
 │                                              Scores are pre-computed from Python —
-│                                              full formula logic in CHS_Computation_Logic.docx
+│                                              full formula logic in CHS_Computation_Logic.pdf
 │
 └── data/
     ├── github_data.csv                     ← GitHub Discussions dataset (626 rows, 9 communities)
