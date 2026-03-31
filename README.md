@@ -147,26 +147,11 @@ Microsoft_VivaEngage_CHS_Blueprint/
 
 ---
 
-## Literature Foundation
-
-The framework is grounded in 14+ sources including:
-
-- Iriberri & Leroy (2009) — Community lifecycle stages
-- Harshil Panchal — *"Social Resilience: Autopsy of Friendster"* — super-user dependency risk
-- Gaurang Panpalia — PubMed survival analysis, arXiv commitment conversion
-- Gabriel Ponsot — Reddit interconnectivity, Signal-to-Noise methodology
-- Khoros/Lithium Community Health Index — 24-hour coverage benchmark
-- Hassan El Habbal (WWW 2018) — Thread-ending and unanswered content risk
-- Sana Majeed — TAM model, perceived usefulness and self-worth in community retention
-- GroupOS — Engagement depth and lurker-to-contributor dynamics
-
----
-
 ## Team
 
 **Purdue BAIM × Microsoft Industry Practicum — Spring 2026**
 
-A team of M.S. in Business Analytics & Information Management (BAIM) students at Purdue University, in collaboration with Microsoft and under faculty mentorship.
+A team of 6 M.S. in Business Analytics & Information Management (BAIM) students at Purdue University, in collaboration with Microsoft and under faculty mentorship.
 
 ---
 
